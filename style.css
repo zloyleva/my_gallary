@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-size: 50px;
+}
+span{
+    color: gold;
+}
+
+/* Это стили для картинок галереии */
+div{
+    border: 1px solid #a5a5a5de;
+    /* padding: 20px; */
+    margin: 20px;
+    background-color: #dedede;
+    display: inline-block;
+    height: 257px;
+    width: 450px;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 04 5px 10px rgba(0,0,0, .32);
+}
